@@ -118,6 +118,9 @@ Existem 3 tipos de variáveis:
 string -> armazena caracteres e números
 number -> Armazena números inteiros e não inteirosBoolean -> true | false
 
+ATENÇÃO: No JS uma variável pode ser criada usando let ou var
+var (obsoleto e inseguro), usar sempre o let
+
 
 
 Comandos JavaScript (Sintaxe)
