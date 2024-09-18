@@ -1,0 +1,15 @@
+apertar f12 em uma pagina google aberta
+na lista de comandos(console) digitar:
+
+Console.clear (PARA LIMPAR A TELA)
+  Let Nome
+Nome "Kimberly"
+  Kimberly
+    console.log(nome)
+      nome = "Kimberly Sugai"
+                Kimberly Sugai
+console.clear()
+  const pi = 3.14
+    console.log(pi)(mostra o valor do pi)
+      3.14
+  
